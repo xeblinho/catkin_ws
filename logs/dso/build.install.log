@@ -1,0 +1,60 @@
+[35m[1mConsolidate compiler generated dependencies of target dso[0m
+[ 92%] Built target dso
+[35m[1mConsolidate compiler generated dependencies of target dso_dataset[0m
+[100%] Built target dso_dataset
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /home/jetson/dso/catkin_ws/devel/lib/libdso.so
+-- Set runtime path of "/home/jetson/dso/catkin_ws/devel/lib/libdso.so" to ""
+-- Installing: /home/jetson/dso/catkin_ws/devel/bin/dso_dataset
+-- Set runtime path of "/home/jetson/dso/catkin_ws/devel/bin/dso_dataset" to ""
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/FullSystem
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/FullSystem/ResidualProjections.h
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/FullSystem/PixelSelector2.h
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/FullSystem/PixelSelector.h
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/FullSystem/HessianBlocks.h
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/FullSystem/CoarseTracker.h
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/FullSystem/ImmaturePoint.h
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/FullSystem/FullSystem.h
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/FullSystem/Residuals.h
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/FullSystem/CoarseInitializer.h
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/OptimizationBackend
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/OptimizationBackend/AccumulatedSCHessian.h
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/OptimizationBackend/EnergyFunctional.h
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/OptimizationBackend/AccumulatedTopHessian.h
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/OptimizationBackend/MatrixAccumulators.h
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/OptimizationBackend/RawResidualJacobian.h
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/OptimizationBackend/EnergyFunctionalStructs.h
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/util
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/util/NumType.h
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/util/FrameShell.h
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/util/DatasetReader.h
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/util/globalFuncs.h
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/util/Undistort.h
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/util/globalCalib.h
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/util/IndexThreadReduce.h
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/util/nanoflann.h
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/util/MinimalImage.h
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/util/settings.h
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/util/ImageAndExposure.h
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/IOWrapper
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/IOWrapper/ImageDisplay.h
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/IOWrapper/Pangolin
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/IOWrapper/Pangolin/KeyFrameDisplay.h
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/IOWrapper/Pangolin/PangolinDSOViewer.h
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/IOWrapper/OutputWrapper
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/IOWrapper/OutputWrapper/SampleOutputWrapper.h
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/IOWrapper/OpenCV
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/IOWrapper/ImageRW.h
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/IOWrapper/Output3DWrapper.h
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/sophus
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/sophus/se3.hpp
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/sophus/sophus.hpp
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/sophus/sim3.hpp
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/sophus/se2.hpp
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/sophus/so3.hpp
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/sophus/tests.hpp
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/sophus/so2.hpp
+-- Installing: /home/jetson/dso/catkin_ws/devel/include/dso/sophus/rxso3.hpp
+-- Installing: /home/jetson/dso/catkin_ws/devel/lib/pkgconfig/dso.pc

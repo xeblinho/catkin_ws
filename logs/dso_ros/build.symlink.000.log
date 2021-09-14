@@ -1,0 +1,4 @@
+Symlinking /home/jetson/dso/catkin_ws/devel/share/dso_ros/cmake/dso_rosConfig-version.cmake
+Symlinking /home/jetson/dso/catkin_ws/devel/share/dso_ros/cmake/dso_rosConfig.cmake
+Symlinking /home/jetson/dso/catkin_ws/devel/lib/pkgconfig/dso_ros.pc
+Symlinking /home/jetson/dso/catkin_ws/devel/lib/dso_ros/dso_live

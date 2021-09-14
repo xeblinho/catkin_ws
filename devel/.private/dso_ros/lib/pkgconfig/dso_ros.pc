@@ -1,0 +1,8 @@
+prefix=/home/jetson/dso/catkin_ws/devel/.private/dso_ros
+
+Name: dso_ros
+Description: Description of dso_ros
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs roscpp sensor_msgs cv_bridge

@@ -1,0 +1,3 @@
+[ 50%] [32mBuilding CXX object CMakeFiles/dso_live.dir/src/main.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/jetson/dso/catkin_ws/devel/.private/dso_ros/lib/dso_ros/dso_live[0m
+[100%] Built target dso_live
